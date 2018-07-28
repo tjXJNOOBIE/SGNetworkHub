@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CoreV2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CoreV2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
